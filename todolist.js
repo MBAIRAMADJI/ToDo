@@ -31,9 +31,3 @@ $(".fa-plus").click(function() {
 
 })
 
-// $('input').keypress(function() {
-//     var dInput = this.value;
-//     console.log(dInput);
-//     $(".input('" + dInput + "')").css("display","block");
-// });
-// // .append("<li>Appended item</li>");
