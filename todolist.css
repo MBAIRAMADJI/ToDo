@@ -1,0 +1,49 @@
+
+body {
+	font-family: Roboto;
+	background: linear-gradient(to left, #7474BF , #348AC7);
+}
+
+#container {
+	width: 302px;
+	height: auto;
+	margin: auto;
+	position: relative;
+	background-color: rgb(230, 230, 230);
+}
+
+h2 {
+	text-align: center;
+}
+.completed {
+	text-decoration: line-through;
+}
+
+input {
+	width: 279px;
+	margin: auto;
+	padding: 10px;
+}
+
+ul {
+	margin-top: 0;
+	margin-right: 40px;
+
+}
+
+li {
+	list-style:none;
+	margin: auto;
+	width: 279px;
+	height: 20px;
+	padding: 10px;
+	background-color: #fff;
+}
+
+.fa-plus {
+	float: right;
+}
+/*span {
+	display: none;
+}*/
+
